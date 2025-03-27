@@ -1,3 +1,4 @@
+//Any
 const func=(document:any)=>{
 console.log(document)
 }
